@@ -7,3 +7,14 @@ ro.qc.sdk.audio.fluencetype=fluence
 
 # Display
 ro.sf.lcd_density=310
+
+# AlexAnder Tweaks MM
+
+# Performance
+debug.performance.tuning=1
+
+# Better Touch
+debug.performance.tuning=1
+video.accelerate.hw=1
+
+# End of AlexAnder Tweaks MM
